@@ -27,7 +27,7 @@ I enjoy turning real-world problems into end-to-end products—from user interfa
 
 A smart pantry mobile application that uses receipt OCR and AI-assisted product recognition to track food, reduce waste and provide gamified feedback. Built with React Native, TypeScript, Node.js, Express and MongoDB.
 
-### Tripay E-ATM
+### [Tripay E-ATM](https://github.com/omer-damar/Tripay-E-ATM-Web)
 
 A multi-service electronic ATM system combining an [ASP.NET Core MVC web application](https://github.com/omer-damar/Tripay-E-ATM-Web) with a [Node.js service layer](https://github.com/omer-damar/Tripay-E-ATM-Services). The project integrates REST, gRPC and SOAP services, JWT-based authentication and PostgreSQL.
 
