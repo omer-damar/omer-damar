@@ -39,6 +39,10 @@ A collaborative native iOS application for tracking internship applications and 
 
 A Python-based hybrid solution for the Warehouse Location Problem, combining K-Means, greedy selection and local search while comparing results with alternative optimization methods.
 
+### [NeuroDrive](https://github.com/omer-damar/Neurodrive) · [Live demo](https://omer-damar.github.io/Neurodrive/)
+
+Self-driving cars that learn in the browser: a hand-written neural network and genetic algorithm in plain JavaScript, a 2D simulation with a Three.js 3D view, and reproducible experiments on how well trained brains generalize to unseen tracks.
+
 ### [VisionGuard AI](https://github.com/omer-damar/VisionGuard_AI)
 
 A collaborative image-forgery detection project combining a WPF desktop interface, FastAPI, ResNet18 and traditional computer-vision algorithms.
